@@ -10,7 +10,7 @@
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs?username=ShellWen&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"
           alt="ShellWen"
-          width="30%"
+          width="40%"
         />
       </a>
 </div>
